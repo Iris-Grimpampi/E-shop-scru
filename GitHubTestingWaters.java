@@ -15,8 +15,6 @@ public class GitHubTestingWaters {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         
-     
         JOptionPane.showMessageDialog(null, "Testing da git!!1!11!!!", "Git hub Testis", 1);
     }
     
