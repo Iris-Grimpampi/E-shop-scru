@@ -17,6 +17,9 @@ public class GitHubTestingWaters {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Start \n kiss kiss fall in love", "Git hub Testis", 1);
         JOptionPane.showMessageDialog(null, "Testing da git!!1!11!!!", "Git hub Testis", 1);
+        JOptionPane.showMessageDialog(null, "Testing da git!!1!11!!!", "Git hub Testis", 1);
+        JOptionPane.showMessageDialog(null, "Testing da git!!1!11!!!", "Git hub Testis", 1);
+        
     }
     
 }
